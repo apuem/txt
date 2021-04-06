@@ -1,10 +1,11 @@
-# TXT
+# txt
 
-## About apuem
-Lorem Ipsum dolor atem
+## About Documents - apuem
+Coming soon...
 
 ## About TXT
-Lorem Ipsum dolor atem
+Coming soon...
 
 ## How to open .txt
-Lorem Ipsum dolor atem
+1. Microsoft Visual Studio Code
+2. Coming soon...
